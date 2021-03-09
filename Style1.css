@@ -1,0 +1,46 @@
+h1{ text-align: center;
+    background-color : black;
+    width: 290px;
+    text-decoration: underline;
+    margin: auto;
+    margin-bottom: 20px ;
+    border-radius: 20px;}
+h2{ text-decoration: underline;
+margin-top: 50px;
+color: rgb(218, 168, 75);}
+
+h3{text-decoration: underline;}
+
+a{  background-color: black;
+    color: rgb(198, 170, 117);
+    text-align: center;
+    margin: 10px;
+    padding: 12px; 
+    border-radius: 20px ;
+    margin: auto;
+    margin-bottom: 20px ;}
+
+nav{text-align: center;}
+
+a:hover{
+    background-color: gray;
+}
+
+img{ margin: auto;
+margin-left: 20px;
+margin-right: 20px;}
+
+p{  margin:auto;
+    text-align:justify;
+    font-family: sans-serif;
+    margin-right: 20px;
+    margin-left: 20px;}
+
+    fieldset{font-size: medium;
+    }
+
+legend{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+
